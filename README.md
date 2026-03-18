@@ -1,4 +1,5 @@
 # odin-recipes
-primo progetto html
-qui andremo a creare il primo sito solo in html ovvero primo esercizio del the odin project
+First HTML PROJECT 
+I'm going to create a html website for recipes, will include recipe for Carbonara,
+Lasagna and Pizza, evrything in italian because are the plates who comes from italian culinary tradition.
 
