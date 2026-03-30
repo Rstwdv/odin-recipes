@@ -1,0 +1,137 @@
+.body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.primo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: #1f2937;
+    padding: 20px 200px;
+    
+    
+}
+
+.lista{
+    display:flex;
+    color: blue;
+    background-color:#1f2937;
+    list-style: none;
+    gap: 20px;
+    border-radius: 20px;
+}
+
+.twia{
+    display:flex;
+    justify-content:space-between;
+    background:#1f2937;
+    color:white;
+    padding:80px 200px;
+    align-items: center;
+    
+}
+.twia-text h1{
+    font-size: 48px;
+
+}
+.twia-text p{
+    font-size: 20px;
+}
+
+.twia-text button{
+    
+    background:#3882f6;
+    border:none;
+    color:white;
+    padding:10px 50px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    
+}
+
+
+.server-images img{
+    display: flex;
+    width:400px;
+    border: 1px whitesmoke;
+    border-style:solid; 
+    align-items:center;
+    margin-top: -250px;
+    margin-left: 1200px;
+    border-radius: 30%;
+    
+}
+
+.carte{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: ;
+    background-color: white;
+    padding: 20px 200px;
+    margin-top: 50px;
+}
+
+.info {
+    text-align: center;
+}
+.info h2{
+    font-size: 48px;
+}
+.carta img{
+    width:150px;
+    height:150px;
+    object-fit:cover;
+    border-radius:10px;
+    border:3px solid #3882f6;
+}
+.carta p{
+    font-family: 'Times New Roman';
+    text-align: center;
+
+}
+
+.speach{
+    text-align: center;
+    background:#e5e7eb;
+    padding:100px 300px;
+    
+}
+
+.dspach{
+    font-size:36px;
+    font-style:italic;
+}
+
+.lastbox{
+    padding: 80px 200px;
+}
+
+
+.lastbox-box{
+    background:#3882f6;
+    color:white;
+    padding:40px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    border-radius:10px;
+}
+
+.lastbox button{
+    background:;
+    border:2px solid white;
+    color:blue;
+    padding:10px 50px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
